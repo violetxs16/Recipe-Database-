@@ -1,2 +1,3 @@
 # Recipe Database 
-The recipe database uses HTML to display recipes that were added to an SQL data base. The user can also create a new recipe to post on the website. 
+Using HTMl, PHP and mySQL
+The recipe website display's recipes that are submitted to the database. An option to submit, delete, and edit are all available on the website. 
